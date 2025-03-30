@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "nombre": "Motorola",
+        "descripcion": "Un celular Motorola",
+        "stock": 100,
+        "marca": "Motorola",
+        "precio": 500000,
+        "fecha_lanzamiento": "2 de marzo de 2025",
+        "capacidad": 256
+    },
+    {
+        "id":2,
+        "nombre": "Samsung Galaxy S24",
+        "descripcion": "Un celular Samsung de gama alta",
+        "stock": 50,
+        "marca": "Samsung",
+        "precio": 800000,
+        "fecha_lanzamiento": "15 de enero de 2025",
+        "capacidad": 512
+    },
+    {
+        "id":3,
+        "nombre": "iPhone 15 Pro",
+        "descripcion": "El último modelo de iPhone",
+        "stock": 30,
+        "marca": "Apple",
+        "precio": 1200000,
+        "fecha_lanzamiento": "22 de septiembre de 2024",
+        "capacidad": 1024
+    },
+    {
+        "id":4,
+        "nombre": "Xiaomi 13T",
+        "descripcion": "Un celular potente y accesible",
+        "stock": 75,
+        "marca": "Xiaomi",
+        "precio": 450000,
+        "fecha_lanzamiento": "10 de agosto de 2024",
+        "capacidad": 256
+    },
+    {
+        "id":5,
+        "nombre": "OnePlus 12",
+        "descripcion": "Rendimiento premium a buen precio",
+        "stock": 40,
+        "marca": "OnePlus",
+        "precio": 650000,
+        "fecha_lanzamiento": "5 de febrero de 2025",
+        "capacidad": 512
+    }
+]
